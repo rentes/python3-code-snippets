@@ -2,7 +2,7 @@
 """
     Python 3 examples using Numbers
     Author: Miguel Rentes
-    https://github.com/rentes/python3-code-snippets/core_datatypes/numbers/numbers.py
+    https://github.com/rentes/python3-code-snippets/blob/master/core_datatypes/numbers/numbers.py
     Python version: 3.7.2
 """
 result = 123 + 456 # Integer Addition

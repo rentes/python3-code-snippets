@@ -2,7 +2,7 @@
 """
     Python 3 image to ascii art example (based upon https://gist.github.com/cdiener/10567484)
     Author: Miguel Rentes
-    https://github.com/rentes/python3-code-snippets/imaging/montypython.py
+    https://github.com/rentes/python3-code-snippets/blob/master/imaging/montypython.py
     Dependencies: PIL (or Pillow), NumPy
     Python version: 3.7.2
 """
