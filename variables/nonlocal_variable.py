@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-    Nonlocal variables
+    Nonlocal variable
     Author: Miguel Rentes
     https://github.com/rentes/python3-code-snippets/blob/master/variables/nonlocal_variable.py
     Python version: 3.7.2
