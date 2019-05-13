@@ -19,7 +19,7 @@ def F(first_parameter, second_parameter):
         """
         Inner function
         """
-        nonlocal variableA # exactly the same variable as in line 14
+        nonlocal variableA # exactly the same variable as in line 15
         variableA = "nonlocal"
         print('local variableA value inside inner function: ', variableA)
     
